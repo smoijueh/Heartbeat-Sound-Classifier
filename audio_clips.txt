@@ -1,0 +1,28 @@
+<table>
+   <tr></tr>
+   <tr>
+      <td>
+         <h2 style="text-align:center;"> Normal Heartbeat </h2>
+         <iframe width="100%" height="265" src="https://clyp.it/obxkf4x0/widget" frameborder="0"></iframe>
+      </td>
+      <td>
+         <h2 style="text-align:center;"> Murmur Heartbeat </h2>
+         <iframe width="100%" height="265" src="https://clyp.it/wqp4h4jj/widget" frameborder="0"></iframe>
+      </td>
+      <td>
+      <td>
+         <h2 style="text-align:center;">
+            Extra Heart Sound
+         </h2>
+         <iframe width="100%" height="265" src="https://clyp.it/p0gjzs5h/widget" frameborder="0"></iframe>
+   </tr>
+   <tr>
+      <td>
+         <h2 style="text-align:center;"> Extrastole </h2>
+         <iframe width="100%" height="265" src="https://clyp.it/5drhkm2m/widget" frameborder="0"></iframe>
+      <td>
+         <h2
+            style="text-align:center;"> Artifact </h2>
+         <iframe width="100%" height="265" src="https://clyp.it/nzwihf3j/widget" frameborder="0"></iframe>
+   </tr>
+</table>
